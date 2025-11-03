@@ -1,0 +1,6502 @@
+[
+  {
+    "id": 1,
+    "term": "hmm1",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm1\"",
+      "\"Maybe hmm1\""
+    ],
+    "dateAdded": "2024-11-05",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "term": "cry2",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry2 harder\"",
+      "\"Just cry2\""
+    ],
+    "dateAdded": "2024-12-20",
+    "status": "review"
+  },
+  {
+    "id": 3,
+    "term": "l3",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l3 harder\"",
+      "\"Just l3\""
+    ],
+    "dateAdded": "2024-02-22",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "term": "cope4",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope4 harder\"",
+      "\"Just cope4\""
+    ],
+    "dateAdded": "2024-04-21",
+    "status": "review"
+  },
+  {
+    "id": 5,
+    "term": "l5",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l5 harder\"",
+      "\"Just l5\""
+    ],
+    "dateAdded": "2024-11-20",
+    "status": "inactive"
+  },
+  {
+    "id": 6,
+    "term": "seethe6",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe6 harder\"",
+      "\"Just seethe6\""
+    ],
+    "dateAdded": "2024-12-10",
+    "status": "inactive"
+  },
+  {
+    "id": 7,
+    "term": "l7",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l7 harder\"",
+      "\"Just l7\""
+    ],
+    "dateAdded": "2024-04-02",
+    "status": "inactive"
+  },
+  {
+    "id": 8,
+    "term": "kys8",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys8\"",
+      "\"Go kys8\""
+    ],
+    "dateAdded": "2024-11-16",
+    "status": "review"
+  },
+  {
+    "id": 9,
+    "term": "lit9",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit9\"",
+      "\"Totally lit9\""
+    ],
+    "dateAdded": "2024-08-15",
+    "status": "review"
+  },
+  {
+    "id": 10,
+    "term": "fishy10",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy10\"",
+      "\"He’s acting fishy10\""
+    ],
+    "dateAdded": "2024-08-19",
+    "status": "active"
+  },
+  {
+    "id": 11,
+    "term": "ratio11",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio11 harder\"",
+      "\"Just ratio11\""
+    ],
+    "dateAdded": "2024-07-09",
+    "status": "review"
+  },
+  {
+    "id": 12,
+    "term": "valid12",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid12\"",
+      "\"Totally valid12\""
+    ],
+    "dateAdded": "2024-12-13",
+    "status": "review"
+  },
+  {
+    "id": 13,
+    "term": "fire13",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire13\"",
+      "\"Totally fire13\""
+    ],
+    "dateAdded": "2024-02-15",
+    "status": "inactive"
+  },
+  {
+    "id": 14,
+    "term": "ratio14",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio14ed\"",
+      "\"Check your ratio14\""
+    ],
+    "dateAdded": "2024-02-25",
+    "status": "inactive"
+  },
+  {
+    "id": 15,
+    "term": "cope15",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope15 harder\"",
+      "\"Just cope15\""
+    ],
+    "dateAdded": "2024-02-01",
+    "status": "inactive"
+  },
+  {
+    "id": 16,
+    "term": "cry16",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry16 harder\"",
+      "\"Just cry16\""
+    ],
+    "dateAdded": "2024-11-21",
+    "status": "review"
+  },
+  {
+    "id": 17,
+    "term": "trash17",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a trash17\"",
+      "\"Go trash17\""
+    ],
+    "dateAdded": "2024-02-05",
+    "status": "review"
+  },
+  {
+    "id": 18,
+    "term": "odd18",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd18\"",
+      "\"He’s acting odd18\""
+    ],
+    "dateAdded": "2024-08-10",
+    "status": "inactive"
+  },
+  {
+    "id": 19,
+    "term": "hmm19",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm19\"",
+      "\"Maybe hmm19\""
+    ],
+    "dateAdded": "2024-06-28",
+    "status": "active"
+  },
+  {
+    "id": 20,
+    "term": "odd20",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd20\"",
+      "\"He’s acting odd20\""
+    ],
+    "dateAdded": "2024-05-23",
+    "status": "review"
+  },
+  {
+    "id": 21,
+    "term": "noose21",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a noose21\"",
+      "\"Go noose21\""
+    ],
+    "dateAdded": "2023-12-21",
+    "status": "active"
+  },
+  {
+    "id": 22,
+    "term": "fire22",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire22\"",
+      "\"Totally fire22\""
+    ],
+    "dateAdded": "2024-08-07",
+    "status": "inactive"
+  },
+  {
+    "id": 23,
+    "term": "loser23",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a loser23\"",
+      "\"Go loser23\""
+    ],
+    "dateAdded": "2024-10-04",
+    "status": "active"
+  },
+  {
+    "id": 24,
+    "term": "cry24",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry24 harder\"",
+      "\"Just cry24\""
+    ],
+    "dateAdded": "2024-03-22",
+    "status": "review"
+  },
+  {
+    "id": 25,
+    "term": "unalive25",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a unalive25\"",
+      "\"Go unalive25\""
+    ],
+    "dateAdded": "2024-05-27",
+    "status": "active"
+  },
+  {
+    "id": 26,
+    "term": "noose26",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a noose26\"",
+      "\"Go noose26\""
+    ],
+    "dateAdded": "2024-11-03",
+    "status": "review"
+  },
+  {
+    "id": 27,
+    "term": "noose27",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a noose27\"",
+      "\"Go noose27\""
+    ],
+    "dateAdded": "2024-01-14",
+    "status": "review"
+  },
+  {
+    "id": 28,
+    "term": "odd28",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd28\"",
+      "\"He’s acting odd28\""
+    ],
+    "dateAdded": "2024-02-17",
+    "status": "active"
+  },
+  {
+    "id": 29,
+    "term": "valid29",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid29\"",
+      "\"Totally valid29\""
+    ],
+    "dateAdded": "2024-08-15",
+    "status": "review"
+  },
+  {
+    "id": 30,
+    "term": "maybe30",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe30\"",
+      "\"Maybe maybe30\""
+    ],
+    "dateAdded": "2024-02-20",
+    "status": "active"
+  },
+  {
+    "id": 31,
+    "term": "wholesome31",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome31\"",
+      "\"Totally wholesome31\""
+    ],
+    "dateAdded": "2024-08-06",
+    "status": "inactive"
+  },
+  {
+    "id": 32,
+    "term": "based32",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based32\"",
+      "\"Totally based32\""
+    ],
+    "dateAdded": "2024-02-16",
+    "status": "active"
+  },
+  {
+    "id": 33,
+    "term": "dm33",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got dm33ed\"",
+      "\"Check your dm33\""
+    ],
+    "dateAdded": "2024-01-18",
+    "status": "active"
+  },
+  {
+    "id": 34,
+    "term": "wholesome34",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome34\"",
+      "\"Totally wholesome34\""
+    ],
+    "dateAdded": "2024-10-31",
+    "status": "review"
+  },
+  {
+    "id": 35,
+    "term": "fyp35",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp35ed\"",
+      "\"Check your fyp35\""
+    ],
+    "dateAdded": "2024-04-03",
+    "status": "active"
+  },
+  {
+    "id": 36,
+    "term": "odd36",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd36\"",
+      "\"He’s acting odd36\""
+    ],
+    "dateAdded": "2024-02-27",
+    "status": "inactive"
+  },
+  {
+    "id": 37,
+    "term": "ratio37",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio37ed\"",
+      "\"Check your ratio37\""
+    ],
+    "dateAdded": "2024-02-20",
+    "status": "active"
+  },
+  {
+    "id": 38,
+    "term": "sus38",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus38\"",
+      "\"He’s acting sus38\""
+    ],
+    "dateAdded": "2024-06-18",
+    "status": "inactive"
+  },
+  {
+    "id": 39,
+    "term": "fire39",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire39\"",
+      "\"Totally fire39\""
+    ],
+    "dateAdded": "2024-01-09",
+    "status": "inactive"
+  },
+  {
+    "id": 40,
+    "term": "seethe40",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe40 harder\"",
+      "\"Just seethe40\""
+    ],
+    "dateAdded": "2024-11-06",
+    "status": "inactive"
+  },
+  {
+    "id": 41,
+    "term": "loser41",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a loser41\"",
+      "\"Go loser41\""
+    ],
+    "dateAdded": "2024-12-06",
+    "status": "inactive"
+  },
+  {
+    "id": 42,
+    "term": "fyp42",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp42ed\"",
+      "\"Check your fyp42\""
+    ],
+    "dateAdded": "2023-12-04",
+    "status": "inactive"
+  },
+  {
+    "id": 43,
+    "term": "wholesome43",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome43\"",
+      "\"Totally wholesome43\""
+    ],
+    "dateAdded": "2024-04-07",
+    "status": "active"
+  },
+  {
+    "id": 44,
+    "term": "kys44",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys44\"",
+      "\"Go kys44\""
+    ],
+    "dateAdded": "2024-02-24",
+    "status": "inactive"
+  },
+  {
+    "id": 45,
+    "term": "odd45",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd45\"",
+      "\"He’s acting odd45\""
+    ],
+    "dateAdded": "2024-01-17",
+    "status": "inactive"
+  },
+  {
+    "id": 46,
+    "term": "valid46",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid46\"",
+      "\"Totally valid46\""
+    ],
+    "dateAdded": "2024-07-16",
+    "status": "inactive"
+  },
+  {
+    "id": 47,
+    "term": "hmm47",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm47\"",
+      "\"Maybe hmm47\""
+    ],
+    "dateAdded": "2024-01-10",
+    "status": "review"
+  },
+  {
+    "id": 48,
+    "term": "burn48",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn48\"",
+      "\"Go burn48\""
+    ],
+    "dateAdded": "2024-11-02",
+    "status": "inactive"
+  },
+  {
+    "id": 49,
+    "term": "burn49",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn49\"",
+      "\"Go burn49\""
+    ],
+    "dateAdded": "2023-12-22",
+    "status": "review"
+  },
+  {
+    "id": 50,
+    "term": "idiot50",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a idiot50\"",
+      "\"Go idiot50\""
+    ],
+    "dateAdded": "2024-11-27",
+    "status": "inactive"
+  },
+  {
+    "id": 51,
+    "term": "lit51",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit51\"",
+      "\"Totally lit51\""
+    ],
+    "dateAdded": "2024-01-07",
+    "status": "active"
+  },
+  {
+    "id": 52,
+    "term": "hmm52",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm52\"",
+      "\"Maybe hmm52\""
+    ],
+    "dateAdded": "2024-09-26",
+    "status": "active"
+  },
+  {
+    "id": 53,
+    "term": "lit53",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit53\"",
+      "\"Totally lit53\""
+    ],
+    "dateAdded": "2024-03-16",
+    "status": "inactive"
+  },
+  {
+    "id": 54,
+    "term": "maybe54",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe54\"",
+      "\"Maybe maybe54\""
+    ],
+    "dateAdded": "2024-05-19",
+    "status": "inactive"
+  },
+  {
+    "id": 55,
+    "term": "clout55",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout55ed\"",
+      "\"Check your clout55\""
+    ],
+    "dateAdded": "2024-04-22",
+    "status": "inactive"
+  },
+  {
+    "id": 56,
+    "term": "burn56",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn56\"",
+      "\"Go burn56\""
+    ],
+    "dateAdded": "2024-08-23",
+    "status": "active"
+  },
+  {
+    "id": 57,
+    "term": "lit57",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit57\"",
+      "\"Totally lit57\""
+    ],
+    "dateAdded": "2024-01-06",
+    "status": "review"
+  },
+  {
+    "id": 58,
+    "term": "odd58",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd58\"",
+      "\"He’s acting odd58\""
+    ],
+    "dateAdded": "2024-12-17",
+    "status": "review"
+  },
+  {
+    "id": 59,
+    "term": "hmm59",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm59\"",
+      "\"Maybe hmm59\""
+    ],
+    "dateAdded": "2024-03-04",
+    "status": "inactive"
+  },
+  {
+    "id": 60,
+    "term": "cry60",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry60 harder\"",
+      "\"Just cry60\""
+    ],
+    "dateAdded": "2024-10-20",
+    "status": "inactive"
+  },
+  {
+    "id": 61,
+    "term": "l61",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l61 harder\"",
+      "\"Just l61\""
+    ],
+    "dateAdded": "2024-10-22",
+    "status": "review"
+  },
+  {
+    "id": 62,
+    "term": "sus62",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus62\"",
+      "\"He’s acting sus62\""
+    ],
+    "dateAdded": "2024-04-17",
+    "status": "active"
+  },
+  {
+    "id": 63,
+    "term": "sus63",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus63\"",
+      "\"He’s acting sus63\""
+    ],
+    "dateAdded": "2024-06-22",
+    "status": "review"
+  },
+  {
+    "id": 64,
+    "term": "l64",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l64 harder\"",
+      "\"Just l64\""
+    ],
+    "dateAdded": "2024-10-29",
+    "status": "review"
+  },
+  {
+    "id": 65,
+    "term": "ratio65",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio65ed\"",
+      "\"Check your ratio65\""
+    ],
+    "dateAdded": "2024-11-26",
+    "status": "active"
+  },
+  {
+    "id": 66,
+    "term": "ok66",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok66\"",
+      "\"Maybe ok66\""
+    ],
+    "dateAdded": "2024-06-17",
+    "status": "active"
+  },
+  {
+    "id": 67,
+    "term": "ratio67",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio67 harder\"",
+      "\"Just ratio67\""
+    ],
+    "dateAdded": "2024-06-30",
+    "status": "active"
+  },
+  {
+    "id": 68,
+    "term": "weird68",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird68\"",
+      "\"He’s acting weird68\""
+    ],
+    "dateAdded": "2024-02-17",
+    "status": "active"
+  },
+  {
+    "id": 69,
+    "term": "seethe69",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe69 harder\"",
+      "\"Just seethe69\""
+    ],
+    "dateAdded": "2024-10-02",
+    "status": "active"
+  },
+  {
+    "id": 70,
+    "term": "sneaky70",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky70\"",
+      "\"He’s acting sneaky70\""
+    ],
+    "dateAdded": "2024-01-28",
+    "status": "inactive"
+  },
+  {
+    "id": 71,
+    "term": "viral71",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got viral71ed\"",
+      "\"Check your viral71\""
+    ],
+    "dateAdded": "2024-11-08",
+    "status": "review"
+  },
+  {
+    "id": 72,
+    "term": "fishy72",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy72\"",
+      "\"He’s acting fishy72\""
+    ],
+    "dateAdded": "2024-07-16",
+    "status": "active"
+  },
+  {
+    "id": 73,
+    "term": "valid73",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid73\"",
+      "\"Totally valid73\""
+    ],
+    "dateAdded": "2024-07-19",
+    "status": "review"
+  },
+  {
+    "id": 74,
+    "term": "cope74",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope74 harder\"",
+      "\"Just cope74\""
+    ],
+    "dateAdded": "2024-08-13",
+    "status": "review"
+  },
+  {
+    "id": 75,
+    "term": "sneaky75",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky75\"",
+      "\"He’s acting sneaky75\""
+    ],
+    "dateAdded": "2024-06-16",
+    "status": "active"
+  },
+  {
+    "id": 76,
+    "term": "dm76",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got dm76ed\"",
+      "\"Check your dm76\""
+    ],
+    "dateAdded": "2024-02-22",
+    "status": "inactive"
+  },
+  {
+    "id": 77,
+    "term": "ratio77",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio77 harder\"",
+      "\"Just ratio77\""
+    ],
+    "dateAdded": "2024-09-02",
+    "status": "inactive"
+  },
+  {
+    "id": 78,
+    "term": "clout78",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout78ed\"",
+      "\"Check your clout78\""
+    ],
+    "dateAdded": "2024-08-17",
+    "status": "review"
+  },
+  {
+    "id": 79,
+    "term": "cry79",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry79 harder\"",
+      "\"Just cry79\""
+    ],
+    "dateAdded": "2024-09-02",
+    "status": "review"
+  },
+  {
+    "id": 80,
+    "term": "valid80",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid80\"",
+      "\"Totally valid80\""
+    ],
+    "dateAdded": "2024-05-27",
+    "status": "inactive"
+  },
+  {
+    "id": 81,
+    "term": "based81",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based81\"",
+      "\"Totally based81\""
+    ],
+    "dateAdded": "2024-11-29",
+    "status": "active"
+  },
+  {
+    "id": 82,
+    "term": "odd82",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd82\"",
+      "\"He’s acting odd82\""
+    ],
+    "dateAdded": "2024-02-26",
+    "status": "review"
+  },
+  {
+    "id": 83,
+    "term": "idiot83",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a idiot83\"",
+      "\"Go idiot83\""
+    ],
+    "dateAdded": "2024-06-17",
+    "status": "active"
+  },
+  {
+    "id": 84,
+    "term": "fire84",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire84\"",
+      "\"Totally fire84\""
+    ],
+    "dateAdded": "2024-02-05",
+    "status": "inactive"
+  },
+  {
+    "id": 85,
+    "term": "fire85",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire85\"",
+      "\"Totally fire85\""
+    ],
+    "dateAdded": "2024-06-02",
+    "status": "active"
+  },
+  {
+    "id": 86,
+    "term": "fyp86",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp86ed\"",
+      "\"Check your fyp86\""
+    ],
+    "dateAdded": "2024-07-26",
+    "status": "review"
+  },
+  {
+    "id": 87,
+    "term": "fishy87",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy87\"",
+      "\"He’s acting fishy87\""
+    ],
+    "dateAdded": "2024-10-19",
+    "status": "inactive"
+  },
+  {
+    "id": 88,
+    "term": "maybe88",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe88\"",
+      "\"Maybe maybe88\""
+    ],
+    "dateAdded": "2024-11-14",
+    "status": "inactive"
+  },
+  {
+    "id": 89,
+    "term": "cry89",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry89 harder\"",
+      "\"Just cry89\""
+    ],
+    "dateAdded": "2024-08-01",
+    "status": "active"
+  },
+  {
+    "id": 90,
+    "term": "burn90",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn90\"",
+      "\"Go burn90\""
+    ],
+    "dateAdded": "2024-07-10",
+    "status": "active"
+  },
+  {
+    "id": 91,
+    "term": "sneaky91",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky91\"",
+      "\"He’s acting sneaky91\""
+    ],
+    "dateAdded": "2023-12-16",
+    "status": "active"
+  },
+  {
+    "id": 92,
+    "term": "fyp92",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp92ed\"",
+      "\"Check your fyp92\""
+    ],
+    "dateAdded": "2024-10-22",
+    "status": "active"
+  },
+  {
+    "id": 93,
+    "term": "valid93",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid93\"",
+      "\"Totally valid93\""
+    ],
+    "dateAdded": "2024-09-21",
+    "status": "review"
+  },
+  {
+    "id": 94,
+    "term": "based94",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based94\"",
+      "\"Totally based94\""
+    ],
+    "dateAdded": "2024-07-03",
+    "status": "review"
+  },
+  {
+    "id": 95,
+    "term": "die95",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a die95\"",
+      "\"Go die95\""
+    ],
+    "dateAdded": "2024-03-24",
+    "status": "review"
+  },
+  {
+    "id": 96,
+    "term": "sus96",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus96\"",
+      "\"He’s acting sus96\""
+    ],
+    "dateAdded": "2024-08-01",
+    "status": "review"
+  },
+  {
+    "id": 97,
+    "term": "loser97",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a loser97\"",
+      "\"Go loser97\""
+    ],
+    "dateAdded": "2024-03-12",
+    "status": "active"
+  },
+  {
+    "id": 98,
+    "term": "cry98",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry98 harder\"",
+      "\"Just cry98\""
+    ],
+    "dateAdded": "2024-02-23",
+    "status": "inactive"
+  },
+  {
+    "id": 99,
+    "term": "dm99",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got dm99ed\"",
+      "\"Check your dm99\""
+    ],
+    "dateAdded": "2024-06-08",
+    "status": "active"
+  },
+  {
+    "id": 100,
+    "term": "maybe100",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe100\"",
+      "\"Maybe maybe100\""
+    ],
+    "dateAdded": "2024-02-05",
+    "status": "active"
+  },
+  {
+    "id": 101,
+    "term": "maybe101",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe101\"",
+      "\"Maybe maybe101\""
+    ],
+    "dateAdded": "2024-01-21",
+    "status": "inactive"
+  },
+  {
+    "id": 102,
+    "term": "idk102",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, idk102\"",
+      "\"Maybe idk102\""
+    ],
+    "dateAdded": "2024-10-24",
+    "status": "inactive"
+  },
+  {
+    "id": 103,
+    "term": "viral103",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got viral103ed\"",
+      "\"Check your viral103\""
+    ],
+    "dateAdded": "2024-08-21",
+    "status": "review"
+  },
+  {
+    "id": 104,
+    "term": "odd104",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd104\"",
+      "\"He’s acting odd104\""
+    ],
+    "dateAdded": "2024-07-14",
+    "status": "active"
+  },
+  {
+    "id": 105,
+    "term": "wholesome105",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome105\"",
+      "\"Totally wholesome105\""
+    ],
+    "dateAdded": "2024-08-04",
+    "status": "review"
+  },
+  {
+    "id": 106,
+    "term": "fishy106",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy106\"",
+      "\"He’s acting fishy106\""
+    ],
+    "dateAdded": "2024-08-20",
+    "status": "inactive"
+  },
+  {
+    "id": 107,
+    "term": "ratio107",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio107 harder\"",
+      "\"Just ratio107\""
+    ],
+    "dateAdded": "2024-08-18",
+    "status": "active"
+  },
+  {
+    "id": 108,
+    "term": "l108",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l108 harder\"",
+      "\"Just l108\""
+    ],
+    "dateAdded": "2024-01-05",
+    "status": "active"
+  },
+  {
+    "id": 109,
+    "term": "kys109",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys109\"",
+      "\"Go kys109\""
+    ],
+    "dateAdded": "2024-07-16",
+    "status": "active"
+  },
+  {
+    "id": 110,
+    "term": "valid110",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid110\"",
+      "\"Totally valid110\""
+    ],
+    "dateAdded": "2024-09-11",
+    "status": "inactive"
+  },
+  {
+    "id": 111,
+    "term": "sneaky111",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky111\"",
+      "\"He’s acting sneaky111\""
+    ],
+    "dateAdded": "2024-04-29",
+    "status": "inactive"
+  },
+  {
+    "id": 112,
+    "term": "valid112",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid112\"",
+      "\"Totally valid112\""
+    ],
+    "dateAdded": "2024-09-07",
+    "status": "inactive"
+  },
+  {
+    "id": 113,
+    "term": "l113",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l113 harder\"",
+      "\"Just l113\""
+    ],
+    "dateAdded": "2024-12-20",
+    "status": "review"
+  },
+  {
+    "id": 114,
+    "term": "hmm114",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm114\"",
+      "\"Maybe hmm114\""
+    ],
+    "dateAdded": "2024-11-07",
+    "status": "inactive"
+  },
+  {
+    "id": 115,
+    "term": "sneaky115",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky115\"",
+      "\"He’s acting sneaky115\""
+    ],
+    "dateAdded": "2024-01-30",
+    "status": "active"
+  },
+  {
+    "id": 116,
+    "term": "wholesome116",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome116\"",
+      "\"Totally wholesome116\""
+    ],
+    "dateAdded": "2024-08-07",
+    "status": "active"
+  },
+  {
+    "id": 117,
+    "term": "kys117",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys117\"",
+      "\"Go kys117\""
+    ],
+    "dateAdded": "2024-01-04",
+    "status": "active"
+  },
+  {
+    "id": 118,
+    "term": "idiot118",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a idiot118\"",
+      "\"Go idiot118\""
+    ],
+    "dateAdded": "2024-06-04",
+    "status": "active"
+  },
+  {
+    "id": 119,
+    "term": "ok119",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok119\"",
+      "\"Maybe ok119\""
+    ],
+    "dateAdded": "2024-11-23",
+    "status": "review"
+  },
+  {
+    "id": 120,
+    "term": "weird120",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird120\"",
+      "\"He’s acting weird120\""
+    ],
+    "dateAdded": "2024-05-11",
+    "status": "active"
+  },
+  {
+    "id": 121,
+    "term": "fishy121",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy121\"",
+      "\"He’s acting fishy121\""
+    ],
+    "dateAdded": "2024-06-12",
+    "status": "inactive"
+  },
+  {
+    "id": 122,
+    "term": "seethe122",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe122 harder\"",
+      "\"Just seethe122\""
+    ],
+    "dateAdded": "2024-12-28",
+    "status": "inactive"
+  },
+  {
+    "id": 123,
+    "term": "odd123",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd123\"",
+      "\"He’s acting odd123\""
+    ],
+    "dateAdded": "2024-12-09",
+    "status": "active"
+  },
+  {
+    "id": 124,
+    "term": "burn124",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn124\"",
+      "\"Go burn124\""
+    ],
+    "dateAdded": "2024-08-11",
+    "status": "active"
+  },
+  {
+    "id": 125,
+    "term": "fine125",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, fine125\"",
+      "\"Maybe fine125\""
+    ],
+    "dateAdded": "2024-02-04",
+    "status": "active"
+  },
+  {
+    "id": 126,
+    "term": "fine126",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, fine126\"",
+      "\"Maybe fine126\""
+    ],
+    "dateAdded": "2024-06-16",
+    "status": "review"
+  },
+  {
+    "id": 127,
+    "term": "cry127",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry127 harder\"",
+      "\"Just cry127\""
+    ],
+    "dateAdded": "2024-07-06",
+    "status": "active"
+  },
+  {
+    "id": 128,
+    "term": "weird128",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird128\"",
+      "\"He’s acting weird128\""
+    ],
+    "dateAdded": "2024-01-01",
+    "status": "active"
+  },
+  {
+    "id": 129,
+    "term": "wholesome129",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome129\"",
+      "\"Totally wholesome129\""
+    ],
+    "dateAdded": "2024-03-19",
+    "status": "inactive"
+  },
+  {
+    "id": 130,
+    "term": "odd130",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd130\"",
+      "\"He’s acting odd130\""
+    ],
+    "dateAdded": "2024-04-13",
+    "status": "review"
+  },
+  {
+    "id": 131,
+    "term": "ok131",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok131\"",
+      "\"Maybe ok131\""
+    ],
+    "dateAdded": "2024-05-01",
+    "status": "inactive"
+  },
+  {
+    "id": 132,
+    "term": "odd132",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd132\"",
+      "\"He’s acting odd132\""
+    ],
+    "dateAdded": "2023-12-09",
+    "status": "active"
+  },
+  {
+    "id": 133,
+    "term": "l133",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l133 harder\"",
+      "\"Just l133\""
+    ],
+    "dateAdded": "2023-12-21",
+    "status": "review"
+  },
+  {
+    "id": 134,
+    "term": "fyp134",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp134ed\"",
+      "\"Check your fyp134\""
+    ],
+    "dateAdded": "2024-10-18",
+    "status": "review"
+  },
+  {
+    "id": 135,
+    "term": "ratio135",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio135 harder\"",
+      "\"Just ratio135\""
+    ],
+    "dateAdded": "2024-08-09",
+    "status": "active"
+  },
+  {
+    "id": 136,
+    "term": "ratio136",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio136ed\"",
+      "\"Check your ratio136\""
+    ],
+    "dateAdded": "2023-12-21",
+    "status": "active"
+  },
+  {
+    "id": 137,
+    "term": "seethe137",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe137 harder\"",
+      "\"Just seethe137\""
+    ],
+    "dateAdded": "2024-08-16",
+    "status": "review"
+  },
+  {
+    "id": 138,
+    "term": "lit138",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit138\"",
+      "\"Totally lit138\""
+    ],
+    "dateAdded": "2024-09-10",
+    "status": "review"
+  },
+  {
+    "id": 139,
+    "term": "cry139",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry139 harder\"",
+      "\"Just cry139\""
+    ],
+    "dateAdded": "2024-06-11",
+    "status": "active"
+  },
+  {
+    "id": 140,
+    "term": "clout140",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout140ed\"",
+      "\"Check your clout140\""
+    ],
+    "dateAdded": "2024-09-26",
+    "status": "review"
+  },
+  {
+    "id": 141,
+    "term": "ok141",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok141\"",
+      "\"Maybe ok141\""
+    ],
+    "dateAdded": "2024-06-18",
+    "status": "active"
+  },
+  {
+    "id": 142,
+    "term": "sus142",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus142\"",
+      "\"He’s acting sus142\""
+    ],
+    "dateAdded": "2024-11-23",
+    "status": "active"
+  },
+  {
+    "id": 143,
+    "term": "noose143",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a noose143\"",
+      "\"Go noose143\""
+    ],
+    "dateAdded": "2023-12-13",
+    "status": "active"
+  },
+  {
+    "id": 144,
+    "term": "dm144",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got dm144ed\"",
+      "\"Check your dm144\""
+    ],
+    "dateAdded": "2024-11-10",
+    "status": "active"
+  },
+  {
+    "id": 145,
+    "term": "trash145",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a trash145\"",
+      "\"Go trash145\""
+    ],
+    "dateAdded": "2024-04-28",
+    "status": "active"
+  },
+  {
+    "id": 146,
+    "term": "odd146",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd146\"",
+      "\"He’s acting odd146\""
+    ],
+    "dateAdded": "2024-06-14",
+    "status": "review"
+  },
+  {
+    "id": 147,
+    "term": "noose147",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a noose147\"",
+      "\"Go noose147\""
+    ],
+    "dateAdded": "2024-10-04",
+    "status": "review"
+  },
+  {
+    "id": 148,
+    "term": "based148",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based148\"",
+      "\"Totally based148\""
+    ],
+    "dateAdded": "2024-06-06",
+    "status": "inactive"
+  },
+  {
+    "id": 149,
+    "term": "fishy149",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy149\"",
+      "\"He’s acting fishy149\""
+    ],
+    "dateAdded": "2024-08-21",
+    "status": "review"
+  },
+  {
+    "id": 150,
+    "term": "sus150",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus150\"",
+      "\"He’s acting sus150\""
+    ],
+    "dateAdded": "2024-04-09",
+    "status": "inactive"
+  },
+  {
+    "id": 151,
+    "term": "ok151",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok151\"",
+      "\"Maybe ok151\""
+    ],
+    "dateAdded": "2024-07-25",
+    "status": "review"
+  },
+  {
+    "id": 152,
+    "term": "seethe152",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe152 harder\"",
+      "\"Just seethe152\""
+    ],
+    "dateAdded": "2024-09-07",
+    "status": "inactive"
+  },
+  {
+    "id": 153,
+    "term": "sneaky153",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky153\"",
+      "\"He’s acting sneaky153\""
+    ],
+    "dateAdded": "2024-12-03",
+    "status": "review"
+  },
+  {
+    "id": 154,
+    "term": "lit154",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit154\"",
+      "\"Totally lit154\""
+    ],
+    "dateAdded": "2024-05-20",
+    "status": "inactive"
+  },
+  {
+    "id": 155,
+    "term": "sneaky155",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky155\"",
+      "\"He’s acting sneaky155\""
+    ],
+    "dateAdded": "2024-10-24",
+    "status": "active"
+  },
+  {
+    "id": 156,
+    "term": "sneaky156",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky156\"",
+      "\"He’s acting sneaky156\""
+    ],
+    "dateAdded": "2024-06-12",
+    "status": "active"
+  },
+  {
+    "id": 157,
+    "term": "ratio157",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio157 harder\"",
+      "\"Just ratio157\""
+    ],
+    "dateAdded": "2024-10-06",
+    "status": "review"
+  },
+  {
+    "id": 158,
+    "term": "ok158",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok158\"",
+      "\"Maybe ok158\""
+    ],
+    "dateAdded": "2024-01-26",
+    "status": "inactive"
+  },
+  {
+    "id": 159,
+    "term": "hmm159",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm159\"",
+      "\"Maybe hmm159\""
+    ],
+    "dateAdded": "2024-06-18",
+    "status": "inactive"
+  },
+  {
+    "id": 160,
+    "term": "odd160",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd160\"",
+      "\"He’s acting odd160\""
+    ],
+    "dateAdded": "2024-02-07",
+    "status": "review"
+  },
+  {
+    "id": 161,
+    "term": "die161",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a die161\"",
+      "\"Go die161\""
+    ],
+    "dateAdded": "2024-08-07",
+    "status": "review"
+  },
+  {
+    "id": 162,
+    "term": "lit162",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit162\"",
+      "\"Totally lit162\""
+    ],
+    "dateAdded": "2024-03-10",
+    "status": "active"
+  },
+  {
+    "id": 163,
+    "term": "cope163",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope163 harder\"",
+      "\"Just cope163\""
+    ],
+    "dateAdded": "2023-12-22",
+    "status": "inactive"
+  },
+  {
+    "id": 164,
+    "term": "lit164",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit164\"",
+      "\"Totally lit164\""
+    ],
+    "dateAdded": "2024-05-31",
+    "status": "inactive"
+  },
+  {
+    "id": 165,
+    "term": "burn165",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn165\"",
+      "\"Go burn165\""
+    ],
+    "dateAdded": "2024-11-09",
+    "status": "inactive"
+  },
+  {
+    "id": 166,
+    "term": "wholesome166",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome166\"",
+      "\"Totally wholesome166\""
+    ],
+    "dateAdded": "2024-04-15",
+    "status": "active"
+  },
+  {
+    "id": 167,
+    "term": "sus167",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus167\"",
+      "\"He’s acting sus167\""
+    ],
+    "dateAdded": "2024-05-06",
+    "status": "inactive"
+  },
+  {
+    "id": 168,
+    "term": "odd168",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd168\"",
+      "\"He’s acting odd168\""
+    ],
+    "dateAdded": "2024-10-30",
+    "status": "review"
+  },
+  {
+    "id": 169,
+    "term": "loser169",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a loser169\"",
+      "\"Go loser169\""
+    ],
+    "dateAdded": "2023-12-08",
+    "status": "active"
+  },
+  {
+    "id": 170,
+    "term": "valid170",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid170\"",
+      "\"Totally valid170\""
+    ],
+    "dateAdded": "2024-09-26",
+    "status": "review"
+  },
+  {
+    "id": 171,
+    "term": "sneaky171",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky171\"",
+      "\"He’s acting sneaky171\""
+    ],
+    "dateAdded": "2024-01-23",
+    "status": "active"
+  },
+  {
+    "id": 172,
+    "term": "cry172",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry172 harder\"",
+      "\"Just cry172\""
+    ],
+    "dateAdded": "2024-07-22",
+    "status": "inactive"
+  },
+  {
+    "id": 173,
+    "term": "trash173",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a trash173\"",
+      "\"Go trash173\""
+    ],
+    "dateAdded": "2024-08-01",
+    "status": "active"
+  },
+  {
+    "id": 174,
+    "term": "fire174",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire174\"",
+      "\"Totally fire174\""
+    ],
+    "dateAdded": "2024-05-31",
+    "status": "inactive"
+  },
+  {
+    "id": 175,
+    "term": "burn175",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn175\"",
+      "\"Go burn175\""
+    ],
+    "dateAdded": "2024-01-10",
+    "status": "review"
+  },
+  {
+    "id": 176,
+    "term": "wholesome176",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome176\"",
+      "\"Totally wholesome176\""
+    ],
+    "dateAdded": "2023-12-29",
+    "status": "review"
+  },
+  {
+    "id": 177,
+    "term": "viral177",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got viral177ed\"",
+      "\"Check your viral177\""
+    ],
+    "dateAdded": "2024-01-10",
+    "status": "inactive"
+  },
+  {
+    "id": 178,
+    "term": "odd178",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd178\"",
+      "\"He’s acting odd178\""
+    ],
+    "dateAdded": "2024-12-11",
+    "status": "inactive"
+  },
+  {
+    "id": 179,
+    "term": "maybe179",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe179\"",
+      "\"Maybe maybe179\""
+    ],
+    "dateAdded": "2024-09-26",
+    "status": "review"
+  },
+  {
+    "id": 180,
+    "term": "idiot180",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a idiot180\"",
+      "\"Go idiot180\""
+    ],
+    "dateAdded": "2024-04-22",
+    "status": "review"
+  },
+  {
+    "id": 181,
+    "term": "based181",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based181\"",
+      "\"Totally based181\""
+    ],
+    "dateAdded": "2024-11-02",
+    "status": "active"
+  },
+  {
+    "id": 182,
+    "term": "weird182",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird182\"",
+      "\"He’s acting weird182\""
+    ],
+    "dateAdded": "2023-12-28",
+    "status": "review"
+  },
+  {
+    "id": 183,
+    "term": "kys183",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys183\"",
+      "\"Go kys183\""
+    ],
+    "dateAdded": "2024-05-10",
+    "status": "active"
+  },
+  {
+    "id": 184,
+    "term": "fishy184",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy184\"",
+      "\"He’s acting fishy184\""
+    ],
+    "dateAdded": "2024-03-22",
+    "status": "inactive"
+  },
+  {
+    "id": 185,
+    "term": "die185",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a die185\"",
+      "\"Go die185\""
+    ],
+    "dateAdded": "2024-02-06",
+    "status": "active"
+  },
+  {
+    "id": 186,
+    "term": "cope186",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope186 harder\"",
+      "\"Just cope186\""
+    ],
+    "dateAdded": "2023-12-21",
+    "status": "active"
+  },
+  {
+    "id": 187,
+    "term": "l187",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l187 harder\"",
+      "\"Just l187\""
+    ],
+    "dateAdded": "2024-04-11",
+    "status": "review"
+  },
+  {
+    "id": 188,
+    "term": "fire188",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire188\"",
+      "\"Totally fire188\""
+    ],
+    "dateAdded": "2024-05-04",
+    "status": "active"
+  },
+  {
+    "id": 189,
+    "term": "valid189",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid189\"",
+      "\"Totally valid189\""
+    ],
+    "dateAdded": "2024-12-15",
+    "status": "active"
+  },
+  {
+    "id": 190,
+    "term": "hmm190",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm190\"",
+      "\"Maybe hmm190\""
+    ],
+    "dateAdded": "2024-11-23",
+    "status": "active"
+  },
+  {
+    "id": 191,
+    "term": "sneaky191",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky191\"",
+      "\"He’s acting sneaky191\""
+    ],
+    "dateAdded": "2024-09-01",
+    "status": "review"
+  },
+  {
+    "id": 192,
+    "term": "dm192",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got dm192ed\"",
+      "\"Check your dm192\""
+    ],
+    "dateAdded": "2024-08-26",
+    "status": "active"
+  },
+  {
+    "id": 193,
+    "term": "fine193",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, fine193\"",
+      "\"Maybe fine193\""
+    ],
+    "dateAdded": "2024-06-22",
+    "status": "active"
+  },
+  {
+    "id": 194,
+    "term": "ok194",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok194\"",
+      "\"Maybe ok194\""
+    ],
+    "dateAdded": "2024-05-19",
+    "status": "review"
+  },
+  {
+    "id": 195,
+    "term": "l195",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l195 harder\"",
+      "\"Just l195\""
+    ],
+    "dateAdded": "2024-01-31",
+    "status": "inactive"
+  },
+  {
+    "id": 196,
+    "term": "fine196",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, fine196\"",
+      "\"Maybe fine196\""
+    ],
+    "dateAdded": "2024-10-22",
+    "status": "inactive"
+  },
+  {
+    "id": 197,
+    "term": "ok197",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok197\"",
+      "\"Maybe ok197\""
+    ],
+    "dateAdded": "2024-12-08",
+    "status": "inactive"
+  },
+  {
+    "id": 198,
+    "term": "unalive198",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a unalive198\"",
+      "\"Go unalive198\""
+    ],
+    "dateAdded": "2024-05-01",
+    "status": "review"
+  },
+  {
+    "id": 199,
+    "term": "idk199",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, idk199\"",
+      "\"Maybe idk199\""
+    ],
+    "dateAdded": "2024-04-13",
+    "status": "review"
+  },
+  {
+    "id": 200,
+    "term": "cry200",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry200 harder\"",
+      "\"Just cry200\""
+    ],
+    "dateAdded": "2024-09-19",
+    "status": "active"
+  },
+  {
+    "id": 201,
+    "term": "hmm201",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm201\"",
+      "\"Maybe hmm201\""
+    ],
+    "dateAdded": "2024-07-24",
+    "status": "review"
+  },
+  {
+    "id": 202,
+    "term": "wholesome202",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome202\"",
+      "\"Totally wholesome202\""
+    ],
+    "dateAdded": "2024-03-13",
+    "status": "inactive"
+  },
+  {
+    "id": 203,
+    "term": "sneaky203",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky203\"",
+      "\"He’s acting sneaky203\""
+    ],
+    "dateAdded": "2024-08-26",
+    "status": "inactive"
+  },
+  {
+    "id": 204,
+    "term": "weird204",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird204\"",
+      "\"He’s acting weird204\""
+    ],
+    "dateAdded": "2024-10-31",
+    "status": "review"
+  },
+  {
+    "id": 205,
+    "term": "idiot205",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a idiot205\"",
+      "\"Go idiot205\""
+    ],
+    "dateAdded": "2024-09-24",
+    "status": "review"
+  },
+  {
+    "id": 206,
+    "term": "fyp206",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp206ed\"",
+      "\"Check your fyp206\""
+    ],
+    "dateAdded": "2024-08-27",
+    "status": "review"
+  },
+  {
+    "id": 207,
+    "term": "valid207",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid207\"",
+      "\"Totally valid207\""
+    ],
+    "dateAdded": "2024-07-05",
+    "status": "review"
+  },
+  {
+    "id": 208,
+    "term": "ok208",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok208\"",
+      "\"Maybe ok208\""
+    ],
+    "dateAdded": "2024-08-03",
+    "status": "active"
+  },
+  {
+    "id": 209,
+    "term": "cry209",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry209 harder\"",
+      "\"Just cry209\""
+    ],
+    "dateAdded": "2024-07-19",
+    "status": "inactive"
+  },
+  {
+    "id": 210,
+    "term": "noose210",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a noose210\"",
+      "\"Go noose210\""
+    ],
+    "dateAdded": "2024-10-31",
+    "status": "active"
+  },
+  {
+    "id": 211,
+    "term": "ok211",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok211\"",
+      "\"Maybe ok211\""
+    ],
+    "dateAdded": "2024-01-21",
+    "status": "active"
+  },
+  {
+    "id": 212,
+    "term": "fishy212",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy212\"",
+      "\"He’s acting fishy212\""
+    ],
+    "dateAdded": "2023-12-17",
+    "status": "review"
+  },
+  {
+    "id": 213,
+    "term": "sneaky213",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky213\"",
+      "\"He’s acting sneaky213\""
+    ],
+    "dateAdded": "2024-02-04",
+    "status": "review"
+  },
+  {
+    "id": 214,
+    "term": "hmm214",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm214\"",
+      "\"Maybe hmm214\""
+    ],
+    "dateAdded": "2024-07-03",
+    "status": "inactive"
+  },
+  {
+    "id": 215,
+    "term": "wholesome215",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome215\"",
+      "\"Totally wholesome215\""
+    ],
+    "dateAdded": "2024-07-05",
+    "status": "active"
+  },
+  {
+    "id": 216,
+    "term": "unalive216",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a unalive216\"",
+      "\"Go unalive216\""
+    ],
+    "dateAdded": "2024-01-10",
+    "status": "active"
+  },
+  {
+    "id": 217,
+    "term": "cope217",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope217 harder\"",
+      "\"Just cope217\""
+    ],
+    "dateAdded": "2024-12-26",
+    "status": "inactive"
+  },
+  {
+    "id": 218,
+    "term": "based218",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based218\"",
+      "\"Totally based218\""
+    ],
+    "dateAdded": "2024-09-26",
+    "status": "active"
+  },
+  {
+    "id": 219,
+    "term": "ratio219",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio219ed\"",
+      "\"Check your ratio219\""
+    ],
+    "dateAdded": "2024-10-20",
+    "status": "inactive"
+  },
+  {
+    "id": 220,
+    "term": "maybe220",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe220\"",
+      "\"Maybe maybe220\""
+    ],
+    "dateAdded": "2024-01-22",
+    "status": "inactive"
+  },
+  {
+    "id": 221,
+    "term": "sneaky221",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky221\"",
+      "\"He’s acting sneaky221\""
+    ],
+    "dateAdded": "2024-02-10",
+    "status": "active"
+  },
+  {
+    "id": 222,
+    "term": "cry222",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry222 harder\"",
+      "\"Just cry222\""
+    ],
+    "dateAdded": "2024-12-20",
+    "status": "inactive"
+  },
+  {
+    "id": 223,
+    "term": "fyp223",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp223ed\"",
+      "\"Check your fyp223\""
+    ],
+    "dateAdded": "2024-08-18",
+    "status": "review"
+  },
+  {
+    "id": 224,
+    "term": "ratio224",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio224ed\"",
+      "\"Check your ratio224\""
+    ],
+    "dateAdded": "2024-03-08",
+    "status": "active"
+  },
+  {
+    "id": 225,
+    "term": "ratio225",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio225 harder\"",
+      "\"Just ratio225\""
+    ],
+    "dateAdded": "2024-05-30",
+    "status": "inactive"
+  },
+  {
+    "id": 226,
+    "term": "wholesome226",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome226\"",
+      "\"Totally wholesome226\""
+    ],
+    "dateAdded": "2024-01-12",
+    "status": "inactive"
+  },
+  {
+    "id": 227,
+    "term": "ratio227",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio227 harder\"",
+      "\"Just ratio227\""
+    ],
+    "dateAdded": "2024-09-07",
+    "status": "active"
+  },
+  {
+    "id": 228,
+    "term": "l228",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l228 harder\"",
+      "\"Just l228\""
+    ],
+    "dateAdded": "2024-07-23",
+    "status": "active"
+  },
+  {
+    "id": 229,
+    "term": "l229",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l229 harder\"",
+      "\"Just l229\""
+    ],
+    "dateAdded": "2024-08-13",
+    "status": "inactive"
+  },
+  {
+    "id": 230,
+    "term": "weird230",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird230\"",
+      "\"He’s acting weird230\""
+    ],
+    "dateAdded": "2024-08-05",
+    "status": "review"
+  },
+  {
+    "id": 231,
+    "term": "fyp231",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp231ed\"",
+      "\"Check your fyp231\""
+    ],
+    "dateAdded": "2024-09-10",
+    "status": "active"
+  },
+  {
+    "id": 232,
+    "term": "wholesome232",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome232\"",
+      "\"Totally wholesome232\""
+    ],
+    "dateAdded": "2024-11-21",
+    "status": "review"
+  },
+  {
+    "id": 233,
+    "term": "sus233",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus233\"",
+      "\"He’s acting sus233\""
+    ],
+    "dateAdded": "2024-09-24",
+    "status": "review"
+  },
+  {
+    "id": 234,
+    "term": "valid234",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid234\"",
+      "\"Totally valid234\""
+    ],
+    "dateAdded": "2024-10-22",
+    "status": "review"
+  },
+  {
+    "id": 235,
+    "term": "kys235",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys235\"",
+      "\"Go kys235\""
+    ],
+    "dateAdded": "2024-08-04",
+    "status": "review"
+  },
+  {
+    "id": 236,
+    "term": "hmm236",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm236\"",
+      "\"Maybe hmm236\""
+    ],
+    "dateAdded": "2024-09-02",
+    "status": "review"
+  },
+  {
+    "id": 237,
+    "term": "fine237",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, fine237\"",
+      "\"Maybe fine237\""
+    ],
+    "dateAdded": "2023-12-27",
+    "status": "inactive"
+  },
+  {
+    "id": 238,
+    "term": "ratio238",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio238 harder\"",
+      "\"Just ratio238\""
+    ],
+    "dateAdded": "2024-01-01",
+    "status": "active"
+  },
+  {
+    "id": 239,
+    "term": "odd239",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd239\"",
+      "\"He’s acting odd239\""
+    ],
+    "dateAdded": "2024-02-16",
+    "status": "inactive"
+  },
+  {
+    "id": 240,
+    "term": "sus240",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus240\"",
+      "\"He’s acting sus240\""
+    ],
+    "dateAdded": "2024-02-08",
+    "status": "inactive"
+  },
+  {
+    "id": 241,
+    "term": "cry241",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry241 harder\"",
+      "\"Just cry241\""
+    ],
+    "dateAdded": "2024-04-23",
+    "status": "inactive"
+  },
+  {
+    "id": 242,
+    "term": "cope242",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope242 harder\"",
+      "\"Just cope242\""
+    ],
+    "dateAdded": "2024-12-04",
+    "status": "active"
+  },
+  {
+    "id": 243,
+    "term": "idiot243",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a idiot243\"",
+      "\"Go idiot243\""
+    ],
+    "dateAdded": "2024-08-16",
+    "status": "active"
+  },
+  {
+    "id": 244,
+    "term": "sus244",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus244\"",
+      "\"He’s acting sus244\""
+    ],
+    "dateAdded": "2024-10-05",
+    "status": "review"
+  },
+  {
+    "id": 245,
+    "term": "sus245",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus245\"",
+      "\"He’s acting sus245\""
+    ],
+    "dateAdded": "2024-04-28",
+    "status": "active"
+  },
+  {
+    "id": 246,
+    "term": "idk246",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, idk246\"",
+      "\"Maybe idk246\""
+    ],
+    "dateAdded": "2024-05-02",
+    "status": "inactive"
+  },
+  {
+    "id": 247,
+    "term": "noose247",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a noose247\"",
+      "\"Go noose247\""
+    ],
+    "dateAdded": "2024-09-03",
+    "status": "review"
+  },
+  {
+    "id": 248,
+    "term": "fishy248",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy248\"",
+      "\"He’s acting fishy248\""
+    ],
+    "dateAdded": "2024-08-21",
+    "status": "inactive"
+  },
+  {
+    "id": 249,
+    "term": "viral249",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got viral249ed\"",
+      "\"Check your viral249\""
+    ],
+    "dateAdded": "2023-12-12",
+    "status": "inactive"
+  },
+  {
+    "id": 250,
+    "term": "maybe250",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe250\"",
+      "\"Maybe maybe250\""
+    ],
+    "dateAdded": "2024-07-13",
+    "status": "inactive"
+  },
+  {
+    "id": 251,
+    "term": "trash251",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a trash251\"",
+      "\"Go trash251\""
+    ],
+    "dateAdded": "2024-12-30",
+    "status": "active"
+  },
+  {
+    "id": 252,
+    "term": "dm252",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got dm252ed\"",
+      "\"Check your dm252\""
+    ],
+    "dateAdded": "2024-09-17",
+    "status": "inactive"
+  },
+  {
+    "id": 253,
+    "term": "sneaky253",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky253\"",
+      "\"He’s acting sneaky253\""
+    ],
+    "dateAdded": "2024-03-27",
+    "status": "inactive"
+  },
+  {
+    "id": 254,
+    "term": "clout254",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout254ed\"",
+      "\"Check your clout254\""
+    ],
+    "dateAdded": "2024-03-17",
+    "status": "review"
+  },
+  {
+    "id": 255,
+    "term": "loser255",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a loser255\"",
+      "\"Go loser255\""
+    ],
+    "dateAdded": "2024-01-17",
+    "status": "active"
+  },
+  {
+    "id": 256,
+    "term": "maybe256",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe256\"",
+      "\"Maybe maybe256\""
+    ],
+    "dateAdded": "2024-12-24",
+    "status": "review"
+  },
+  {
+    "id": 257,
+    "term": "fine257",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, fine257\"",
+      "\"Maybe fine257\""
+    ],
+    "dateAdded": "2024-02-09",
+    "status": "active"
+  },
+  {
+    "id": 258,
+    "term": "lit258",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit258\"",
+      "\"Totally lit258\""
+    ],
+    "dateAdded": "2024-07-06",
+    "status": "active"
+  },
+  {
+    "id": 259,
+    "term": "lit259",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit259\"",
+      "\"Totally lit259\""
+    ],
+    "dateAdded": "2023-12-23",
+    "status": "inactive"
+  },
+  {
+    "id": 260,
+    "term": "cry260",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry260 harder\"",
+      "\"Just cry260\""
+    ],
+    "dateAdded": "2024-12-16",
+    "status": "review"
+  },
+  {
+    "id": 261,
+    "term": "sus261",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus261\"",
+      "\"He’s acting sus261\""
+    ],
+    "dateAdded": "2024-09-16",
+    "status": "review"
+  },
+  {
+    "id": 262,
+    "term": "based262",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based262\"",
+      "\"Totally based262\""
+    ],
+    "dateAdded": "2024-05-03",
+    "status": "active"
+  },
+  {
+    "id": 263,
+    "term": "weird263",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird263\"",
+      "\"He’s acting weird263\""
+    ],
+    "dateAdded": "2024-06-16",
+    "status": "inactive"
+  },
+  {
+    "id": 264,
+    "term": "sneaky264",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky264\"",
+      "\"He’s acting sneaky264\""
+    ],
+    "dateAdded": "2024-01-02",
+    "status": "active"
+  },
+  {
+    "id": 265,
+    "term": "wholesome265",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome265\"",
+      "\"Totally wholesome265\""
+    ],
+    "dateAdded": "2024-02-26",
+    "status": "review"
+  },
+  {
+    "id": 266,
+    "term": "die266",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a die266\"",
+      "\"Go die266\""
+    ],
+    "dateAdded": "2024-09-15",
+    "status": "review"
+  },
+  {
+    "id": 267,
+    "term": "weird267",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird267\"",
+      "\"He’s acting weird267\""
+    ],
+    "dateAdded": "2024-08-25",
+    "status": "inactive"
+  },
+  {
+    "id": 268,
+    "term": "ratio268",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio268 harder\"",
+      "\"Just ratio268\""
+    ],
+    "dateAdded": "2024-03-29",
+    "status": "review"
+  },
+  {
+    "id": 269,
+    "term": "cry269",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry269 harder\"",
+      "\"Just cry269\""
+    ],
+    "dateAdded": "2024-04-21",
+    "status": "review"
+  },
+  {
+    "id": 270,
+    "term": "cry270",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry270 harder\"",
+      "\"Just cry270\""
+    ],
+    "dateAdded": "2024-07-28",
+    "status": "review"
+  },
+  {
+    "id": 271,
+    "term": "maybe271",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe271\"",
+      "\"Maybe maybe271\""
+    ],
+    "dateAdded": "2024-08-11",
+    "status": "review"
+  },
+  {
+    "id": 272,
+    "term": "cry272",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry272 harder\"",
+      "\"Just cry272\""
+    ],
+    "dateAdded": "2024-07-03",
+    "status": "active"
+  },
+  {
+    "id": 273,
+    "term": "noose273",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a noose273\"",
+      "\"Go noose273\""
+    ],
+    "dateAdded": "2024-06-23",
+    "status": "review"
+  },
+  {
+    "id": 274,
+    "term": "idk274",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, idk274\"",
+      "\"Maybe idk274\""
+    ],
+    "dateAdded": "2024-05-22",
+    "status": "review"
+  },
+  {
+    "id": 275,
+    "term": "fishy275",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy275\"",
+      "\"He’s acting fishy275\""
+    ],
+    "dateAdded": "2024-06-16",
+    "status": "active"
+  },
+  {
+    "id": 276,
+    "term": "unalive276",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a unalive276\"",
+      "\"Go unalive276\""
+    ],
+    "dateAdded": "2024-10-12",
+    "status": "inactive"
+  },
+  {
+    "id": 277,
+    "term": "valid277",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid277\"",
+      "\"Totally valid277\""
+    ],
+    "dateAdded": "2024-09-19",
+    "status": "active"
+  },
+  {
+    "id": 278,
+    "term": "idiot278",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a idiot278\"",
+      "\"Go idiot278\""
+    ],
+    "dateAdded": "2024-02-21",
+    "status": "active"
+  },
+  {
+    "id": 279,
+    "term": "burn279",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn279\"",
+      "\"Go burn279\""
+    ],
+    "dateAdded": "2024-05-31",
+    "status": "review"
+  },
+  {
+    "id": 280,
+    "term": "fire280",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire280\"",
+      "\"Totally fire280\""
+    ],
+    "dateAdded": "2024-07-25",
+    "status": "inactive"
+  },
+  {
+    "id": 281,
+    "term": "seethe281",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe281 harder\"",
+      "\"Just seethe281\""
+    ],
+    "dateAdded": "2024-01-05",
+    "status": "review"
+  },
+  {
+    "id": 282,
+    "term": "weird282",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird282\"",
+      "\"He’s acting weird282\""
+    ],
+    "dateAdded": "2024-04-19",
+    "status": "inactive"
+  },
+  {
+    "id": 283,
+    "term": "ratio283",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio283 harder\"",
+      "\"Just ratio283\""
+    ],
+    "dateAdded": "2024-08-27",
+    "status": "inactive"
+  },
+  {
+    "id": 284,
+    "term": "kys284",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys284\"",
+      "\"Go kys284\""
+    ],
+    "dateAdded": "2024-03-26",
+    "status": "inactive"
+  },
+  {
+    "id": 285,
+    "term": "ratio285",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio285ed\"",
+      "\"Check your ratio285\""
+    ],
+    "dateAdded": "2024-03-08",
+    "status": "review"
+  },
+  {
+    "id": 286,
+    "term": "sneaky286",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky286\"",
+      "\"He’s acting sneaky286\""
+    ],
+    "dateAdded": "2024-04-17",
+    "status": "review"
+  },
+  {
+    "id": 287,
+    "term": "odd287",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd287\"",
+      "\"He’s acting odd287\""
+    ],
+    "dateAdded": "2024-11-17",
+    "status": "active"
+  },
+  {
+    "id": 288,
+    "term": "based288",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based288\"",
+      "\"Totally based288\""
+    ],
+    "dateAdded": "2024-08-05",
+    "status": "review"
+  },
+  {
+    "id": 289,
+    "term": "fishy289",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy289\"",
+      "\"He’s acting fishy289\""
+    ],
+    "dateAdded": "2023-12-14",
+    "status": "inactive"
+  },
+  {
+    "id": 290,
+    "term": "ratio290",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio290ed\"",
+      "\"Check your ratio290\""
+    ],
+    "dateAdded": "2024-01-11",
+    "status": "review"
+  },
+  {
+    "id": 291,
+    "term": "ratio291",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio291ed\"",
+      "\"Check your ratio291\""
+    ],
+    "dateAdded": "2023-12-24",
+    "status": "review"
+  },
+  {
+    "id": 292,
+    "term": "cry292",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry292 harder\"",
+      "\"Just cry292\""
+    ],
+    "dateAdded": "2024-09-09",
+    "status": "inactive"
+  },
+  {
+    "id": 293,
+    "term": "lit293",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit293\"",
+      "\"Totally lit293\""
+    ],
+    "dateAdded": "2024-02-29",
+    "status": "review"
+  },
+  {
+    "id": 294,
+    "term": "odd294",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd294\"",
+      "\"He’s acting odd294\""
+    ],
+    "dateAdded": "2024-04-28",
+    "status": "active"
+  },
+  {
+    "id": 295,
+    "term": "viral295",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got viral295ed\"",
+      "\"Check your viral295\""
+    ],
+    "dateAdded": "2024-01-29",
+    "status": "active"
+  },
+  {
+    "id": 296,
+    "term": "noose296",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a noose296\"",
+      "\"Go noose296\""
+    ],
+    "dateAdded": "2024-12-06",
+    "status": "active"
+  },
+  {
+    "id": 297,
+    "term": "seethe297",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe297 harder\"",
+      "\"Just seethe297\""
+    ],
+    "dateAdded": "2023-12-07",
+    "status": "review"
+  },
+  {
+    "id": 298,
+    "term": "valid298",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid298\"",
+      "\"Totally valid298\""
+    ],
+    "dateAdded": "2024-07-17",
+    "status": "active"
+  },
+  {
+    "id": 299,
+    "term": "seethe299",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe299 harder\"",
+      "\"Just seethe299\""
+    ],
+    "dateAdded": "2024-09-20",
+    "status": "active"
+  },
+  {
+    "id": 300,
+    "term": "fire300",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire300\"",
+      "\"Totally fire300\""
+    ],
+    "dateAdded": "2024-01-21",
+    "status": "active"
+  },
+  {
+    "id": 301,
+    "term": "l301",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l301 harder\"",
+      "\"Just l301\""
+    ],
+    "dateAdded": "2024-04-19",
+    "status": "active"
+  },
+  {
+    "id": 302,
+    "term": "kys302",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys302\"",
+      "\"Go kys302\""
+    ],
+    "dateAdded": "2024-11-28",
+    "status": "review"
+  },
+  {
+    "id": 303,
+    "term": "l303",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l303 harder\"",
+      "\"Just l303\""
+    ],
+    "dateAdded": "2024-07-21",
+    "status": "active"
+  },
+  {
+    "id": 304,
+    "term": "clout304",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout304ed\"",
+      "\"Check your clout304\""
+    ],
+    "dateAdded": "2024-09-07",
+    "status": "active"
+  },
+  {
+    "id": 305,
+    "term": "hmm305",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm305\"",
+      "\"Maybe hmm305\""
+    ],
+    "dateAdded": "2024-03-07",
+    "status": "inactive"
+  },
+  {
+    "id": 306,
+    "term": "die306",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a die306\"",
+      "\"Go die306\""
+    ],
+    "dateAdded": "2024-11-05",
+    "status": "inactive"
+  },
+  {
+    "id": 307,
+    "term": "die307",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a die307\"",
+      "\"Go die307\""
+    ],
+    "dateAdded": "2024-05-09",
+    "status": "active"
+  },
+  {
+    "id": 308,
+    "term": "l308",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l308 harder\"",
+      "\"Just l308\""
+    ],
+    "dateAdded": "2023-12-05",
+    "status": "inactive"
+  },
+  {
+    "id": 309,
+    "term": "noose309",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a noose309\"",
+      "\"Go noose309\""
+    ],
+    "dateAdded": "2024-08-23",
+    "status": "review"
+  },
+  {
+    "id": 310,
+    "term": "dm310",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got dm310ed\"",
+      "\"Check your dm310\""
+    ],
+    "dateAdded": "2024-02-25",
+    "status": "review"
+  },
+  {
+    "id": 311,
+    "term": "based311",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based311\"",
+      "\"Totally based311\""
+    ],
+    "dateAdded": "2024-03-04",
+    "status": "review"
+  },
+  {
+    "id": 312,
+    "term": "clout312",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout312ed\"",
+      "\"Check your clout312\""
+    ],
+    "dateAdded": "2024-10-26",
+    "status": "review"
+  },
+  {
+    "id": 313,
+    "term": "hmm313",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm313\"",
+      "\"Maybe hmm313\""
+    ],
+    "dateAdded": "2024-03-05",
+    "status": "inactive"
+  },
+  {
+    "id": 314,
+    "term": "seethe314",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe314 harder\"",
+      "\"Just seethe314\""
+    ],
+    "dateAdded": "2024-07-12",
+    "status": "inactive"
+  },
+  {
+    "id": 315,
+    "term": "valid315",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid315\"",
+      "\"Totally valid315\""
+    ],
+    "dateAdded": "2024-04-20",
+    "status": "inactive"
+  },
+  {
+    "id": 316,
+    "term": "valid316",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid316\"",
+      "\"Totally valid316\""
+    ],
+    "dateAdded": "2024-06-27",
+    "status": "inactive"
+  },
+  {
+    "id": 317,
+    "term": "burn317",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn317\"",
+      "\"Go burn317\""
+    ],
+    "dateAdded": "2024-11-02",
+    "status": "active"
+  },
+  {
+    "id": 318,
+    "term": "sus318",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus318\"",
+      "\"He’s acting sus318\""
+    ],
+    "dateAdded": "2024-07-17",
+    "status": "review"
+  },
+  {
+    "id": 319,
+    "term": "idk319",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, idk319\"",
+      "\"Maybe idk319\""
+    ],
+    "dateAdded": "2024-07-25",
+    "status": "inactive"
+  },
+  {
+    "id": 320,
+    "term": "burn320",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn320\"",
+      "\"Go burn320\""
+    ],
+    "dateAdded": "2024-07-22",
+    "status": "active"
+  },
+  {
+    "id": 321,
+    "term": "unalive321",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a unalive321\"",
+      "\"Go unalive321\""
+    ],
+    "dateAdded": "2024-05-23",
+    "status": "inactive"
+  },
+  {
+    "id": 322,
+    "term": "seethe322",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe322 harder\"",
+      "\"Just seethe322\""
+    ],
+    "dateAdded": "2024-04-24",
+    "status": "inactive"
+  },
+  {
+    "id": 323,
+    "term": "clout323",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout323ed\"",
+      "\"Check your clout323\""
+    ],
+    "dateAdded": "2024-08-26",
+    "status": "inactive"
+  },
+  {
+    "id": 324,
+    "term": "hmm324",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm324\"",
+      "\"Maybe hmm324\""
+    ],
+    "dateAdded": "2024-03-08",
+    "status": "active"
+  },
+  {
+    "id": 325,
+    "term": "weird325",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird325\"",
+      "\"He’s acting weird325\""
+    ],
+    "dateAdded": "2024-11-20",
+    "status": "review"
+  },
+  {
+    "id": 326,
+    "term": "burn326",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn326\"",
+      "\"Go burn326\""
+    ],
+    "dateAdded": "2024-09-05",
+    "status": "inactive"
+  },
+  {
+    "id": 327,
+    "term": "ratio327",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio327ed\"",
+      "\"Check your ratio327\""
+    ],
+    "dateAdded": "2024-02-26",
+    "status": "active"
+  },
+  {
+    "id": 328,
+    "term": "sus328",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus328\"",
+      "\"He’s acting sus328\""
+    ],
+    "dateAdded": "2024-01-11",
+    "status": "active"
+  },
+  {
+    "id": 329,
+    "term": "dm329",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got dm329ed\"",
+      "\"Check your dm329\""
+    ],
+    "dateAdded": "2024-06-01",
+    "status": "active"
+  },
+  {
+    "id": 330,
+    "term": "hmm330",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm330\"",
+      "\"Maybe hmm330\""
+    ],
+    "dateAdded": "2024-01-22",
+    "status": "inactive"
+  },
+  {
+    "id": 331,
+    "term": "idk331",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, idk331\"",
+      "\"Maybe idk331\""
+    ],
+    "dateAdded": "2024-05-07",
+    "status": "review"
+  },
+  {
+    "id": 332,
+    "term": "burn332",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn332\"",
+      "\"Go burn332\""
+    ],
+    "dateAdded": "2024-12-10",
+    "status": "inactive"
+  },
+  {
+    "id": 333,
+    "term": "wholesome333",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome333\"",
+      "\"Totally wholesome333\""
+    ],
+    "dateAdded": "2024-11-29",
+    "status": "inactive"
+  },
+  {
+    "id": 334,
+    "term": "odd334",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd334\"",
+      "\"He’s acting odd334\""
+    ],
+    "dateAdded": "2024-12-05",
+    "status": "active"
+  },
+  {
+    "id": 335,
+    "term": "weird335",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird335\"",
+      "\"He’s acting weird335\""
+    ],
+    "dateAdded": "2024-02-19",
+    "status": "inactive"
+  },
+  {
+    "id": 336,
+    "term": "ok336",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok336\"",
+      "\"Maybe ok336\""
+    ],
+    "dateAdded": "2024-04-08",
+    "status": "inactive"
+  },
+  {
+    "id": 337,
+    "term": "weird337",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird337\"",
+      "\"He’s acting weird337\""
+    ],
+    "dateAdded": "2024-09-10",
+    "status": "inactive"
+  },
+  {
+    "id": 338,
+    "term": "maybe338",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe338\"",
+      "\"Maybe maybe338\""
+    ],
+    "dateAdded": "2024-02-04",
+    "status": "active"
+  },
+  {
+    "id": 339,
+    "term": "lit339",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit339\"",
+      "\"Totally lit339\""
+    ],
+    "dateAdded": "2024-03-22",
+    "status": "inactive"
+  },
+  {
+    "id": 340,
+    "term": "valid340",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid340\"",
+      "\"Totally valid340\""
+    ],
+    "dateAdded": "2024-08-03",
+    "status": "review"
+  },
+  {
+    "id": 341,
+    "term": "unalive341",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a unalive341\"",
+      "\"Go unalive341\""
+    ],
+    "dateAdded": "2023-12-28",
+    "status": "inactive"
+  },
+  {
+    "id": 342,
+    "term": "clout342",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout342ed\"",
+      "\"Check your clout342\""
+    ],
+    "dateAdded": "2024-09-20",
+    "status": "inactive"
+  },
+  {
+    "id": 343,
+    "term": "clout343",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout343ed\"",
+      "\"Check your clout343\""
+    ],
+    "dateAdded": "2023-12-13",
+    "status": "review"
+  },
+  {
+    "id": 344,
+    "term": "kys344",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys344\"",
+      "\"Go kys344\""
+    ],
+    "dateAdded": "2024-03-23",
+    "status": "inactive"
+  },
+  {
+    "id": 345,
+    "term": "odd345",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd345\"",
+      "\"He’s acting odd345\""
+    ],
+    "dateAdded": "2024-08-26",
+    "status": "active"
+  },
+  {
+    "id": 346,
+    "term": "odd346",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd346\"",
+      "\"He’s acting odd346\""
+    ],
+    "dateAdded": "2024-12-13",
+    "status": "review"
+  },
+  {
+    "id": 347,
+    "term": "cry347",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry347 harder\"",
+      "\"Just cry347\""
+    ],
+    "dateAdded": "2024-03-03",
+    "status": "review"
+  },
+  {
+    "id": 348,
+    "term": "weird348",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird348\"",
+      "\"He’s acting weird348\""
+    ],
+    "dateAdded": "2024-10-17",
+    "status": "inactive"
+  },
+  {
+    "id": 349,
+    "term": "cry349",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry349 harder\"",
+      "\"Just cry349\""
+    ],
+    "dateAdded": "2024-02-03",
+    "status": "inactive"
+  },
+  {
+    "id": 350,
+    "term": "trash350",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a trash350\"",
+      "\"Go trash350\""
+    ],
+    "dateAdded": "2023-12-07",
+    "status": "review"
+  },
+  {
+    "id": 351,
+    "term": "lit351",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit351\"",
+      "\"Totally lit351\""
+    ],
+    "dateAdded": "2024-05-20",
+    "status": "active"
+  },
+  {
+    "id": 352,
+    "term": "cry352",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry352 harder\"",
+      "\"Just cry352\""
+    ],
+    "dateAdded": "2024-03-17",
+    "status": "active"
+  },
+  {
+    "id": 353,
+    "term": "fyp353",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp353ed\"",
+      "\"Check your fyp353\""
+    ],
+    "dateAdded": "2024-11-01",
+    "status": "active"
+  },
+  {
+    "id": 354,
+    "term": "lit354",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit354\"",
+      "\"Totally lit354\""
+    ],
+    "dateAdded": "2024-04-24",
+    "status": "review"
+  },
+  {
+    "id": 355,
+    "term": "l355",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l355 harder\"",
+      "\"Just l355\""
+    ],
+    "dateAdded": "2024-12-05",
+    "status": "active"
+  },
+  {
+    "id": 356,
+    "term": "clout356",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout356ed\"",
+      "\"Check your clout356\""
+    ],
+    "dateAdded": "2024-08-07",
+    "status": "review"
+  },
+  {
+    "id": 357,
+    "term": "maybe357",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe357\"",
+      "\"Maybe maybe357\""
+    ],
+    "dateAdded": "2024-03-21",
+    "status": "review"
+  },
+  {
+    "id": 358,
+    "term": "l358",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l358 harder\"",
+      "\"Just l358\""
+    ],
+    "dateAdded": "2024-07-08",
+    "status": "review"
+  },
+  {
+    "id": 359,
+    "term": "wholesome359",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome359\"",
+      "\"Totally wholesome359\""
+    ],
+    "dateAdded": "2024-09-26",
+    "status": "review"
+  },
+  {
+    "id": 360,
+    "term": "kys360",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys360\"",
+      "\"Go kys360\""
+    ],
+    "dateAdded": "2024-09-21",
+    "status": "review"
+  },
+  {
+    "id": 361,
+    "term": "idiot361",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a idiot361\"",
+      "\"Go idiot361\""
+    ],
+    "dateAdded": "2024-07-30",
+    "status": "inactive"
+  },
+  {
+    "id": 362,
+    "term": "cope362",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope362 harder\"",
+      "\"Just cope362\""
+    ],
+    "dateAdded": "2024-04-04",
+    "status": "inactive"
+  },
+  {
+    "id": 363,
+    "term": "idiot363",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a idiot363\"",
+      "\"Go idiot363\""
+    ],
+    "dateAdded": "2024-05-18",
+    "status": "active"
+  },
+  {
+    "id": 364,
+    "term": "valid364",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid364\"",
+      "\"Totally valid364\""
+    ],
+    "dateAdded": "2024-09-01",
+    "status": "review"
+  },
+  {
+    "id": 365,
+    "term": "ok365",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok365\"",
+      "\"Maybe ok365\""
+    ],
+    "dateAdded": "2024-06-06",
+    "status": "active"
+  },
+  {
+    "id": 366,
+    "term": "odd366",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd366\"",
+      "\"He’s acting odd366\""
+    ],
+    "dateAdded": "2024-01-18",
+    "status": "review"
+  },
+  {
+    "id": 367,
+    "term": "cry367",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry367 harder\"",
+      "\"Just cry367\""
+    ],
+    "dateAdded": "2024-08-14",
+    "status": "inactive"
+  },
+  {
+    "id": 368,
+    "term": "ratio368",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio368ed\"",
+      "\"Check your ratio368\""
+    ],
+    "dateAdded": "2024-05-29",
+    "status": "inactive"
+  },
+  {
+    "id": 369,
+    "term": "cry369",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry369 harder\"",
+      "\"Just cry369\""
+    ],
+    "dateAdded": "2024-03-20",
+    "status": "review"
+  },
+  {
+    "id": 370,
+    "term": "ratio370",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio370ed\"",
+      "\"Check your ratio370\""
+    ],
+    "dateAdded": "2023-12-13",
+    "status": "active"
+  },
+  {
+    "id": 371,
+    "term": "kys371",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys371\"",
+      "\"Go kys371\""
+    ],
+    "dateAdded": "2024-05-27",
+    "status": "inactive"
+  },
+  {
+    "id": 372,
+    "term": "cope372",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope372 harder\"",
+      "\"Just cope372\""
+    ],
+    "dateAdded": "2023-12-03",
+    "status": "active"
+  },
+  {
+    "id": 373,
+    "term": "ok373",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok373\"",
+      "\"Maybe ok373\""
+    ],
+    "dateAdded": "2024-06-02",
+    "status": "active"
+  },
+  {
+    "id": 374,
+    "term": "maybe374",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe374\"",
+      "\"Maybe maybe374\""
+    ],
+    "dateAdded": "2024-07-03",
+    "status": "inactive"
+  },
+  {
+    "id": 375,
+    "term": "cry375",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry375 harder\"",
+      "\"Just cry375\""
+    ],
+    "dateAdded": "2024-08-29",
+    "status": "active"
+  },
+  {
+    "id": 376,
+    "term": "ratio376",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio376 harder\"",
+      "\"Just ratio376\""
+    ],
+    "dateAdded": "2024-06-02",
+    "status": "active"
+  },
+  {
+    "id": 377,
+    "term": "hmm377",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, hmm377\"",
+      "\"Maybe hmm377\""
+    ],
+    "dateAdded": "2024-03-29",
+    "status": "inactive"
+  },
+  {
+    "id": 378,
+    "term": "kys378",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys378\"",
+      "\"Go kys378\""
+    ],
+    "dateAdded": "2023-12-09",
+    "status": "review"
+  },
+  {
+    "id": 379,
+    "term": "maybe379",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe379\"",
+      "\"Maybe maybe379\""
+    ],
+    "dateAdded": "2024-12-02",
+    "status": "review"
+  },
+  {
+    "id": 380,
+    "term": "seethe380",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe380 harder\"",
+      "\"Just seethe380\""
+    ],
+    "dateAdded": "2024-05-16",
+    "status": "active"
+  },
+  {
+    "id": 381,
+    "term": "odd381",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd381\"",
+      "\"He’s acting odd381\""
+    ],
+    "dateAdded": "2023-12-15",
+    "status": "active"
+  },
+  {
+    "id": 382,
+    "term": "ratio382",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio382 harder\"",
+      "\"Just ratio382\""
+    ],
+    "dateAdded": "2024-11-07",
+    "status": "review"
+  },
+  {
+    "id": 383,
+    "term": "clout383",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout383ed\"",
+      "\"Check your clout383\""
+    ],
+    "dateAdded": "2024-03-07",
+    "status": "inactive"
+  },
+  {
+    "id": 384,
+    "term": "l384",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l384 harder\"",
+      "\"Just l384\""
+    ],
+    "dateAdded": "2024-11-01",
+    "status": "inactive"
+  },
+  {
+    "id": 385,
+    "term": "kys385",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a kys385\"",
+      "\"Go kys385\""
+    ],
+    "dateAdded": "2024-01-03",
+    "status": "review"
+  },
+  {
+    "id": 386,
+    "term": "sneaky386",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky386\"",
+      "\"He’s acting sneaky386\""
+    ],
+    "dateAdded": "2024-08-27",
+    "status": "active"
+  },
+  {
+    "id": 387,
+    "term": "sneaky387",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky387\"",
+      "\"He’s acting sneaky387\""
+    ],
+    "dateAdded": "2024-05-17",
+    "status": "inactive"
+  },
+  {
+    "id": 388,
+    "term": "sneaky388",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky388\"",
+      "\"He’s acting sneaky388\""
+    ],
+    "dateAdded": "2024-08-02",
+    "status": "inactive"
+  },
+  {
+    "id": 389,
+    "term": "idiot389",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a idiot389\"",
+      "\"Go idiot389\""
+    ],
+    "dateAdded": "2024-05-03",
+    "status": "review"
+  },
+  {
+    "id": 390,
+    "term": "lit390",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit390\"",
+      "\"Totally lit390\""
+    ],
+    "dateAdded": "2024-12-01",
+    "status": "inactive"
+  },
+  {
+    "id": 391,
+    "term": "fine391",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, fine391\"",
+      "\"Maybe fine391\""
+    ],
+    "dateAdded": "2024-01-01",
+    "status": "review"
+  },
+  {
+    "id": 392,
+    "term": "cry392",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry392 harder\"",
+      "\"Just cry392\""
+    ],
+    "dateAdded": "2024-05-22",
+    "status": "inactive"
+  },
+  {
+    "id": 393,
+    "term": "fishy393",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy393\"",
+      "\"He’s acting fishy393\""
+    ],
+    "dateAdded": "2024-10-06",
+    "status": "inactive"
+  },
+  {
+    "id": 394,
+    "term": "l394",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"l394 harder\"",
+      "\"Just l394\""
+    ],
+    "dateAdded": "2023-12-19",
+    "status": "inactive"
+  },
+  {
+    "id": 395,
+    "term": "fyp395",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp395ed\"",
+      "\"Check your fyp395\""
+    ],
+    "dateAdded": "2024-11-01",
+    "status": "review"
+  },
+  {
+    "id": 396,
+    "term": "clout396",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout396ed\"",
+      "\"Check your clout396\""
+    ],
+    "dateAdded": "2023-12-27",
+    "status": "inactive"
+  },
+  {
+    "id": 397,
+    "term": "valid397",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid397\"",
+      "\"Totally valid397\""
+    ],
+    "dateAdded": "2024-04-10",
+    "status": "active"
+  },
+  {
+    "id": 398,
+    "term": "wholesome398",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome398\"",
+      "\"Totally wholesome398\""
+    ],
+    "dateAdded": "2024-02-20",
+    "status": "review"
+  },
+  {
+    "id": 399,
+    "term": "sus399",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus399\"",
+      "\"He’s acting sus399\""
+    ],
+    "dateAdded": "2023-12-13",
+    "status": "review"
+  },
+  {
+    "id": 400,
+    "term": "dm400",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got dm400ed\"",
+      "\"Check your dm400\""
+    ],
+    "dateAdded": "2024-02-22",
+    "status": "inactive"
+  },
+  {
+    "id": 401,
+    "term": "trash401",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a trash401\"",
+      "\"Go trash401\""
+    ],
+    "dateAdded": "2024-07-31",
+    "status": "inactive"
+  },
+  {
+    "id": 402,
+    "term": "ratio402",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio402ed\"",
+      "\"Check your ratio402\""
+    ],
+    "dateAdded": "2024-04-01",
+    "status": "review"
+  },
+  {
+    "id": 403,
+    "term": "ok403",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok403\"",
+      "\"Maybe ok403\""
+    ],
+    "dateAdded": "2023-12-20",
+    "status": "active"
+  },
+  {
+    "id": 404,
+    "term": "fishy404",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy404\"",
+      "\"He’s acting fishy404\""
+    ],
+    "dateAdded": "2024-03-17",
+    "status": "inactive"
+  },
+  {
+    "id": 405,
+    "term": "fire405",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire405\"",
+      "\"Totally fire405\""
+    ],
+    "dateAdded": "2024-07-21",
+    "status": "review"
+  },
+  {
+    "id": 406,
+    "term": "trash406",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a trash406\"",
+      "\"Go trash406\""
+    ],
+    "dateAdded": "2024-11-15",
+    "status": "inactive"
+  },
+  {
+    "id": 407,
+    "term": "cry407",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry407 harder\"",
+      "\"Just cry407\""
+    ],
+    "dateAdded": "2024-01-27",
+    "status": "inactive"
+  },
+  {
+    "id": 408,
+    "term": "fishy408",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy408\"",
+      "\"He’s acting fishy408\""
+    ],
+    "dateAdded": "2024-09-11",
+    "status": "active"
+  },
+  {
+    "id": 409,
+    "term": "fine409",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, fine409\"",
+      "\"Maybe fine409\""
+    ],
+    "dateAdded": "2024-11-22",
+    "status": "review"
+  },
+  {
+    "id": 410,
+    "term": "odd410",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd410\"",
+      "\"He’s acting odd410\""
+    ],
+    "dateAdded": "2024-06-01",
+    "status": "active"
+  },
+  {
+    "id": 411,
+    "term": "ratio411",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio411ed\"",
+      "\"Check your ratio411\""
+    ],
+    "dateAdded": "2024-12-13",
+    "status": "review"
+  },
+  {
+    "id": 412,
+    "term": "maybe412",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, maybe412\"",
+      "\"Maybe maybe412\""
+    ],
+    "dateAdded": "2024-05-16",
+    "status": "active"
+  },
+  {
+    "id": 413,
+    "term": "fyp413",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp413ed\"",
+      "\"Check your fyp413\""
+    ],
+    "dateAdded": "2024-10-01",
+    "status": "inactive"
+  },
+  {
+    "id": 414,
+    "term": "sus414",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus414\"",
+      "\"He’s acting sus414\""
+    ],
+    "dateAdded": "2023-12-04",
+    "status": "inactive"
+  },
+  {
+    "id": 415,
+    "term": "fire415",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire415\"",
+      "\"Totally fire415\""
+    ],
+    "dateAdded": "2024-12-10",
+    "status": "inactive"
+  },
+  {
+    "id": 416,
+    "term": "based416",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based416\"",
+      "\"Totally based416\""
+    ],
+    "dateAdded": "2024-07-25",
+    "status": "active"
+  },
+  {
+    "id": 417,
+    "term": "sus417",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus417\"",
+      "\"He’s acting sus417\""
+    ],
+    "dateAdded": "2024-11-30",
+    "status": "inactive"
+  },
+  {
+    "id": 418,
+    "term": "viral418",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got viral418ed\"",
+      "\"Check your viral418\""
+    ],
+    "dateAdded": "2024-08-05",
+    "status": "inactive"
+  },
+  {
+    "id": 419,
+    "term": "lit419",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit419\"",
+      "\"Totally lit419\""
+    ],
+    "dateAdded": "2023-12-04",
+    "status": "active"
+  },
+  {
+    "id": 420,
+    "term": "fine420",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, fine420\"",
+      "\"Maybe fine420\""
+    ],
+    "dateAdded": "2024-09-24",
+    "status": "active"
+  },
+  {
+    "id": 421,
+    "term": "fine421",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, fine421\"",
+      "\"Maybe fine421\""
+    ],
+    "dateAdded": "2024-08-26",
+    "status": "active"
+  },
+  {
+    "id": 422,
+    "term": "fire422",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire422\"",
+      "\"Totally fire422\""
+    ],
+    "dateAdded": "2024-11-13",
+    "status": "inactive"
+  },
+  {
+    "id": 423,
+    "term": "fyp423",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp423ed\"",
+      "\"Check your fyp423\""
+    ],
+    "dateAdded": "2024-02-29",
+    "status": "review"
+  },
+  {
+    "id": 424,
+    "term": "valid424",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid424\"",
+      "\"Totally valid424\""
+    ],
+    "dateAdded": "2024-06-28",
+    "status": "review"
+  },
+  {
+    "id": 425,
+    "term": "idiot425",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a idiot425\"",
+      "\"Go idiot425\""
+    ],
+    "dateAdded": "2024-11-07",
+    "status": "review"
+  },
+  {
+    "id": 426,
+    "term": "idk426",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, idk426\"",
+      "\"Maybe idk426\""
+    ],
+    "dateAdded": "2024-08-01",
+    "status": "active"
+  },
+  {
+    "id": 427,
+    "term": "trash427",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a trash427\"",
+      "\"Go trash427\""
+    ],
+    "dateAdded": "2024-01-01",
+    "status": "active"
+  },
+  {
+    "id": 428,
+    "term": "ok428",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok428\"",
+      "\"Maybe ok428\""
+    ],
+    "dateAdded": "2024-10-16",
+    "status": "review"
+  },
+  {
+    "id": 429,
+    "term": "wholesome429",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome429\"",
+      "\"Totally wholesome429\""
+    ],
+    "dateAdded": "2024-04-18",
+    "status": "active"
+  },
+  {
+    "id": 430,
+    "term": "noose430",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a noose430\"",
+      "\"Go noose430\""
+    ],
+    "dateAdded": "2024-06-14",
+    "status": "active"
+  },
+  {
+    "id": 431,
+    "term": "burn431",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn431\"",
+      "\"Go burn431\""
+    ],
+    "dateAdded": "2024-01-10",
+    "status": "review"
+  },
+  {
+    "id": 432,
+    "term": "dm432",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got dm432ed\"",
+      "\"Check your dm432\""
+    ],
+    "dateAdded": "2024-09-13",
+    "status": "inactive"
+  },
+  {
+    "id": 433,
+    "term": "cope433",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope433 harder\"",
+      "\"Just cope433\""
+    ],
+    "dateAdded": "2024-07-27",
+    "status": "review"
+  },
+  {
+    "id": 434,
+    "term": "clout434",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got clout434ed\"",
+      "\"Check your clout434\""
+    ],
+    "dateAdded": "2023-12-24",
+    "status": "active"
+  },
+  {
+    "id": 435,
+    "term": "ratio435",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio435ed\"",
+      "\"Check your ratio435\""
+    ],
+    "dateAdded": "2024-11-28",
+    "status": "review"
+  },
+  {
+    "id": 436,
+    "term": "fire436",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire436\"",
+      "\"Totally fire436\""
+    ],
+    "dateAdded": "2023-12-15",
+    "status": "active"
+  },
+  {
+    "id": 437,
+    "term": "idk437",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, idk437\"",
+      "\"Maybe idk437\""
+    ],
+    "dateAdded": "2024-10-05",
+    "status": "review"
+  },
+  {
+    "id": 438,
+    "term": "ok438",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok438\"",
+      "\"Maybe ok438\""
+    ],
+    "dateAdded": "2024-03-22",
+    "status": "active"
+  },
+  {
+    "id": 439,
+    "term": "fyp439",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp439ed\"",
+      "\"Check your fyp439\""
+    ],
+    "dateAdded": "2024-07-07",
+    "status": "inactive"
+  },
+  {
+    "id": 440,
+    "term": "sus440",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus440\"",
+      "\"He’s acting sus440\""
+    ],
+    "dateAdded": "2024-06-26",
+    "status": "review"
+  },
+  {
+    "id": 441,
+    "term": "loser441",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a loser441\"",
+      "\"Go loser441\""
+    ],
+    "dateAdded": "2024-07-09",
+    "status": "active"
+  },
+  {
+    "id": 442,
+    "term": "weird442",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird442\"",
+      "\"He’s acting weird442\""
+    ],
+    "dateAdded": "2024-03-26",
+    "status": "active"
+  },
+  {
+    "id": 443,
+    "term": "fire443",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire443\"",
+      "\"Totally fire443\""
+    ],
+    "dateAdded": "2024-04-21",
+    "status": "inactive"
+  },
+  {
+    "id": 444,
+    "term": "ratio444",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got ratio444ed\"",
+      "\"Check your ratio444\""
+    ],
+    "dateAdded": "2024-01-21",
+    "status": "review"
+  },
+  {
+    "id": 445,
+    "term": "burn445",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn445\"",
+      "\"Go burn445\""
+    ],
+    "dateAdded": "2024-05-11",
+    "status": "review"
+  },
+  {
+    "id": 446,
+    "term": "trash446",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a trash446\"",
+      "\"Go trash446\""
+    ],
+    "dateAdded": "2024-07-03",
+    "status": "review"
+  },
+  {
+    "id": 447,
+    "term": "wholesome447",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome447\"",
+      "\"Totally wholesome447\""
+    ],
+    "dateAdded": "2023-12-23",
+    "status": "review"
+  },
+  {
+    "id": 448,
+    "term": "burn448",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a burn448\"",
+      "\"Go burn448\""
+    ],
+    "dateAdded": "2024-04-09",
+    "status": "review"
+  },
+  {
+    "id": 449,
+    "term": "trash449",
+    "severity": "medium",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a trash449\"",
+      "\"Go trash449\""
+    ],
+    "dateAdded": "2024-12-27",
+    "status": "review"
+  },
+  {
+    "id": 450,
+    "term": "noose450",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a noose450\"",
+      "\"Go noose450\""
+    ],
+    "dateAdded": "2024-05-08",
+    "status": "review"
+  },
+  {
+    "id": 451,
+    "term": "sus451",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus451\"",
+      "\"He’s acting sus451\""
+    ],
+    "dateAdded": "2024-05-01",
+    "status": "review"
+  },
+  {
+    "id": 452,
+    "term": "fyp452",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp452ed\"",
+      "\"Check your fyp452\""
+    ],
+    "dateAdded": "2024-02-19",
+    "status": "inactive"
+  },
+  {
+    "id": 453,
+    "term": "ok453",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok453\"",
+      "\"Maybe ok453\""
+    ],
+    "dateAdded": "2024-10-15",
+    "status": "inactive"
+  },
+  {
+    "id": 454,
+    "term": "fire454",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire454\"",
+      "\"Totally fire454\""
+    ],
+    "dateAdded": "2024-06-24",
+    "status": "inactive"
+  },
+  {
+    "id": 455,
+    "term": "sus455",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus455\"",
+      "\"He’s acting sus455\""
+    ],
+    "dateAdded": "2024-11-05",
+    "status": "active"
+  },
+  {
+    "id": 456,
+    "term": "seethe456",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe456 harder\"",
+      "\"Just seethe456\""
+    ],
+    "dateAdded": "2023-12-05",
+    "status": "review"
+  },
+  {
+    "id": 457,
+    "term": "cope457",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope457 harder\"",
+      "\"Just cope457\""
+    ],
+    "dateAdded": "2024-07-06",
+    "status": "inactive"
+  },
+  {
+    "id": 458,
+    "term": "idk458",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, idk458\"",
+      "\"Maybe idk458\""
+    ],
+    "dateAdded": "2024-03-06",
+    "status": "review"
+  },
+  {
+    "id": 459,
+    "term": "fine459",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, fine459\"",
+      "\"Maybe fine459\""
+    ],
+    "dateAdded": "2024-01-15",
+    "status": "active"
+  },
+  {
+    "id": 460,
+    "term": "sus460",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sus460\"",
+      "\"He’s acting sus460\""
+    ],
+    "dateAdded": "2024-07-11",
+    "status": "inactive"
+  },
+  {
+    "id": 461,
+    "term": "fyp461",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp461ed\"",
+      "\"Check your fyp461\""
+    ],
+    "dateAdded": "2024-03-21",
+    "status": "active"
+  },
+  {
+    "id": 462,
+    "term": "fyp462",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp462ed\"",
+      "\"Check your fyp462\""
+    ],
+    "dateAdded": "2024-08-09",
+    "status": "inactive"
+  },
+  {
+    "id": 463,
+    "term": "fyp463",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp463ed\"",
+      "\"Check your fyp463\""
+    ],
+    "dateAdded": "2024-08-08",
+    "status": "active"
+  },
+  {
+    "id": 464,
+    "term": "wholesome464",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so wholesome464\"",
+      "\"Totally wholesome464\""
+    ],
+    "dateAdded": "2024-03-01",
+    "status": "review"
+  },
+  {
+    "id": 465,
+    "term": "cope465",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope465 harder\"",
+      "\"Just cope465\""
+    ],
+    "dateAdded": "2024-10-26",
+    "status": "inactive"
+  },
+  {
+    "id": 466,
+    "term": "fyp466",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp466ed\"",
+      "\"Check your fyp466\""
+    ],
+    "dateAdded": "2024-01-07",
+    "status": "review"
+  },
+  {
+    "id": 467,
+    "term": "cope467",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cope467 harder\"",
+      "\"Just cope467\""
+    ],
+    "dateAdded": "2024-10-01",
+    "status": "active"
+  },
+  {
+    "id": 468,
+    "term": "idk468",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, idk468\"",
+      "\"Maybe idk468\""
+    ],
+    "dateAdded": "2024-09-05",
+    "status": "inactive"
+  },
+  {
+    "id": 469,
+    "term": "cry469",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"cry469 harder\"",
+      "\"Just cry469\""
+    ],
+    "dateAdded": "2023-11-30",
+    "status": "review"
+  },
+  {
+    "id": 470,
+    "term": "unalive470",
+    "severity": "high",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a unalive470\"",
+      "\"Go unalive470\""
+    ],
+    "dateAdded": "2024-10-09",
+    "status": "review"
+  },
+  {
+    "id": 471,
+    "term": "seethe471",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe471 harder\"",
+      "\"Just seethe471\""
+    ],
+    "dateAdded": "2024-05-12",
+    "status": "active"
+  },
+  {
+    "id": 472,
+    "term": "viral472",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got viral472ed\"",
+      "\"Check your viral472\""
+    ],
+    "dateAdded": "2024-09-03",
+    "status": "inactive"
+  },
+  {
+    "id": 473,
+    "term": "viral473",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got viral473ed\"",
+      "\"Check your viral473\""
+    ],
+    "dateAdded": "2024-05-21",
+    "status": "inactive"
+  },
+  {
+    "id": 474,
+    "term": "fire474",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire474\"",
+      "\"Totally fire474\""
+    ],
+    "dateAdded": "2024-07-30",
+    "status": "inactive"
+  },
+  {
+    "id": 475,
+    "term": "ok475",
+    "severity": "low",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok475\"",
+      "\"Maybe ok475\""
+    ],
+    "dateAdded": "2024-05-30",
+    "status": "active"
+  },
+  {
+    "id": 476,
+    "term": "sneaky476",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky476\"",
+      "\"He’s acting sneaky476\""
+    ],
+    "dateAdded": "2024-08-30",
+    "status": "active"
+  },
+  {
+    "id": 477,
+    "term": "fishy477",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy477\"",
+      "\"He’s acting fishy477\""
+    ],
+    "dateAdded": "2024-04-24",
+    "status": "review"
+  },
+  {
+    "id": 478,
+    "term": "ok478",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok478\"",
+      "\"Maybe ok478\""
+    ],
+    "dateAdded": "2024-02-02",
+    "status": "active"
+  },
+  {
+    "id": 479,
+    "term": "based479",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based479\"",
+      "\"Totally based479\""
+    ],
+    "dateAdded": "2024-10-05",
+    "status": "active"
+  },
+  {
+    "id": 480,
+    "term": "lit480",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so lit480\"",
+      "\"Totally lit480\""
+    ],
+    "dateAdded": "2024-11-03",
+    "status": "active"
+  },
+  {
+    "id": 481,
+    "term": "based481",
+    "severity": "low",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based481\"",
+      "\"Totally based481\""
+    ],
+    "dateAdded": "2023-12-16",
+    "status": "active"
+  },
+  {
+    "id": 482,
+    "term": "odd482",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s odd482\"",
+      "\"He’s acting odd482\""
+    ],
+    "dateAdded": "2024-01-23",
+    "status": "review"
+  },
+  {
+    "id": 483,
+    "term": "seethe483",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"seethe483 harder\"",
+      "\"Just seethe483\""
+    ],
+    "dateAdded": "2024-01-30",
+    "status": "inactive"
+  },
+  {
+    "id": 484,
+    "term": "valid484",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so valid484\"",
+      "\"Totally valid484\""
+    ],
+    "dateAdded": "2024-01-09",
+    "status": "review"
+  },
+  {
+    "id": 485,
+    "term": "ok485",
+    "severity": "medium",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, ok485\"",
+      "\"Maybe ok485\""
+    ],
+    "dateAdded": "2024-12-09",
+    "status": "review"
+  },
+  {
+    "id": 486,
+    "term": "ratio486",
+    "severity": "low",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio486 harder\"",
+      "\"Just ratio486\""
+    ],
+    "dateAdded": "2023-12-12",
+    "status": "active"
+  },
+  {
+    "id": 487,
+    "term": "fyp487",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got fyp487ed\"",
+      "\"Check your fyp487\""
+    ],
+    "dateAdded": "2023-12-16",
+    "status": "inactive"
+  },
+  {
+    "id": 488,
+    "term": "fishy488",
+    "severity": "medium",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s fishy488\"",
+      "\"He’s acting fishy488\""
+    ],
+    "dateAdded": "2024-10-03",
+    "status": "review"
+  },
+  {
+    "id": 489,
+    "term": "sneaky489",
+    "severity": "high",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s sneaky489\"",
+      "\"He’s acting sneaky489\""
+    ],
+    "dateAdded": "2024-10-09",
+    "status": "review"
+  },
+  {
+    "id": 490,
+    "term": "viral490",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got viral490ed\"",
+      "\"Check your viral490\""
+    ],
+    "dateAdded": "2024-05-13",
+    "status": "inactive"
+  },
+  {
+    "id": 491,
+    "term": "fire491",
+    "severity": "medium",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so fire491\"",
+      "\"Totally fire491\""
+    ],
+    "dateAdded": "2024-11-20",
+    "status": "review"
+  },
+  {
+    "id": 492,
+    "term": "die492",
+    "severity": "low",
+    "category": "harmful",
+    "definition": "Potentially harmful or abusive term often used to insult or threaten others.",
+    "examples": [
+      "\"You’re such a die492\"",
+      "\"Go die492\""
+    ],
+    "dateAdded": "2023-12-03",
+    "status": "review"
+  },
+  {
+    "id": 493,
+    "term": "viral493",
+    "severity": "low",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got viral493ed\"",
+      "\"Check your viral493\""
+    ],
+    "dateAdded": "2024-06-04",
+    "status": "inactive"
+  },
+  {
+    "id": 494,
+    "term": "ratio494",
+    "severity": "medium",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio494 harder\"",
+      "\"Just ratio494\""
+    ],
+    "dateAdded": "2024-02-10",
+    "status": "inactive"
+  },
+  {
+    "id": 495,
+    "term": "dm495",
+    "severity": "high",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got dm495ed\"",
+      "\"Check your dm495\""
+    ],
+    "dateAdded": "2024-04-14",
+    "status": "review"
+  },
+  {
+    "id": 496,
+    "term": "based496",
+    "severity": "high",
+    "category": "positive",
+    "definition": "Term expressing approval, agreement, or positivity.",
+    "examples": [
+      "\"That’s so based496\"",
+      "\"Totally based496\""
+    ],
+    "dateAdded": "2024-03-14",
+    "status": "inactive"
+  },
+  {
+    "id": 497,
+    "term": "viral497",
+    "severity": "medium",
+    "category": "social_media",
+    "definition": "Commonly used in social media contexts to describe online interactions.",
+    "examples": [
+      "\"Got viral497ed\"",
+      "\"Check your viral497\""
+    ],
+    "dateAdded": "2024-08-16",
+    "status": "active"
+  },
+  {
+    "id": 498,
+    "term": "fine498",
+    "severity": "high",
+    "category": "neutral",
+    "definition": "Contextually harmless or neutral slang depending on tone.",
+    "examples": [
+      "\"Hmm, fine498\"",
+      "\"Maybe fine498\""
+    ],
+    "dateAdded": "2024-01-05",
+    "status": "inactive"
+  },
+  {
+    "id": 499,
+    "term": "ratio499",
+    "severity": "high",
+    "category": "dismissive",
+    "definition": "Term used to belittle, mock, or dismiss someone's opinion.",
+    "examples": [
+      "\"ratio499 harder\"",
+      "\"Just ratio499\""
+    ],
+    "dateAdded": "2024-05-05",
+    "status": "active"
+  },
+  {
+    "id": 500,
+    "term": "weird500",
+    "severity": "low",
+    "category": "suspicious",
+    "definition": "Used to describe suspicious or questionable behavior or context.",
+    "examples": [
+      "\"That’s weird500\"",
+      "\"He’s acting weird500\""
+    ],
+    "dateAdded": "2023-12-20",
+    "status": "inactive"
+  }
+]
